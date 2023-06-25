@@ -1,4 +1,4 @@
-![Screenshot (52)](https://github.com/Amisha3002/FloodFill/assets/92268713/aba2637b-9d4a-468e-b553-fd448dffec7b)# FloodFill
+# FloodFill
 Implemented the Flood Fill algorithm using HTML, CSS, and JavaScript. It is  a web-based application that allows users to interactively apply the Flood Fill algorithm on a the given grid.
 
 

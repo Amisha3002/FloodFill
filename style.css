@@ -1,0 +1,51 @@
+html{
+  background-image: url("bg.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1,h2 {
+  font-family: Lato;
+  color: white;
+}
+
+.color-options {
+  display: flex;
+}
+.border{
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.color-cell {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  box-shadow: 3px 3px 5px black;
+}
+.color-cell:hover,.color-Play-cell:hover{
+  box-shadow: 3px 3px 5px white;
+}
+.color-Play-cell {
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  margin: 3px;
+  box-shadow: 3px 3px 5px black;
+  border-radius: 5px;
+}
+
+.sub-play {
+  display: flex;
+}
+
+.play-ground {
+  display: flex;
+  flex-direction: column;
+}
